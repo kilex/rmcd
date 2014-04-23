@@ -50,6 +50,9 @@ OPTIONS
 ENVIRONMENT
     The configuration file should be placed in
     $XDG_CONFIG_HOME/rmcd/rmcd.conf
+    
+INSTALL
+    cpan install Term::ExtendedColor Mplayer::NowPlaying Daemon::Mplayer
 
 AUTHOR
       Magnus Woldrich
